@@ -5,13 +5,14 @@ This project focuses on predicting disease outbreaks and individual health condi
 
 # 🚀 Features
 
-✅ Disease Outbreak Prediction based on historical and environmental data✅ Individual Health Predictions for:
-
-Heart Disease
-
-Parkinson’s Disease
-
-Diabetes✅ Interactive web interface powered by Streamlit✅ Real-time prediction results with user-friendly input forms✅ Visualization of model outputs and key metrics
+✅ Disease Outbreak Prediction based on historical and environmental data
+✅ Individual Health Predictions for:
+                     Heart Disease
+                     Parkinson’s Disease
+                     Diabetes
+✅ Interactive web interface powered by Streamlit
+✅ Real-time prediction results with user-friendly input forms
+✅ Visualization of model outputs and key metrics
 
 # 📢 Future Enhancements
 
